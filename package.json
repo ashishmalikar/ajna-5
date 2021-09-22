@@ -1,0 +1,24 @@
+{
+  "name": "ajna-5",
+  "version": "5.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishmalikar/ajna-5.git"
+  },
+  "keywords": [
+    "ajna-5",
+    "web-component",
+    "js-lib"
+  ],
+  "author": "Ashish Malikar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashishmalikar/ajna-5/issues"
+  },
+  "homepage": "https://github.com/ashishmalikar/ajna-5#readme"
+}
